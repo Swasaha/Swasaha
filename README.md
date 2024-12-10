@@ -31,7 +31,7 @@ I’m passionate about solving real-world problems with technology.
 
 I love exploring new cloud technologies and experimenting with innovative solutions.
 
-[![Anurag's GitHub stats](https://github-readme-stats.radical.app/api?username=Swasaha&show_icons=true)](https://github.com/Swasaha/github-readme-stats&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.radicel.app/api?username=Swasaha&show_icons=true)](https://github.com/Swasaha/github-readme-stats&show_icons=true)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swasthika.24) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/swasaha) 
 # 💻 Tech Stack:
