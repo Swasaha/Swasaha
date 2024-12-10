@@ -31,5 +31,5 @@ I’m passionate about solving real-world problems with technology.
 
 I love exploring new cloud technologies and experimenting with innovative solutions.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swasaha)](https://github.com/Swasaha/github-readme-stats)
 
